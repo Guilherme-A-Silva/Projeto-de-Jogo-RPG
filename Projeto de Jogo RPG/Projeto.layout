@@ -4,8 +4,9 @@
 		<File Name="GG.h" Top="No" Tabpos="1" TopLine="79">
 			<Cursor Line="34" Column="15"/>
 		</File>
-		<File Name="GG.cpp" Top="Yes" Tabpos="2" TopLine="1">
-			<Cursor Line="962" Column="1"/>
+		<File Name="GG.cpp" Top="Yes" Tabpos="2" TopLine="1396">
+			<Cursor Line="1493" Column="3"/>
+			<Selection Line="1403" Column="2"/>
 		</File>
 		<File Name="main.cpp" Top="No" Tabpos="3" TopLine="1">
 			<Cursor Line="4" Column="23"/>
