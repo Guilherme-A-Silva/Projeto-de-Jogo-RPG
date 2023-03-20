@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="GG.h" Top="No" Tabpos="1" TopLine="79">
+			<Cursor Line="34" Column="15"/>
+		</File>
+		<File Name="GG.cpp" Top="Yes" Tabpos="2" TopLine="1">
+			<Cursor Line="962" Column="1"/>
+		</File>
+		<File Name="main.cpp" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="4" Column="23"/>
+		</File>
+	</Files>
+</Layout>
